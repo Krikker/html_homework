@@ -8,3 +8,5 @@
 ## 3.2 [Нестандартные элементы форм](form-elements/)
 ## 4.1 [Всплывающие элементы](popup-elements/)
 ## 4.2 [Позиционирование flex-элементов](flex-elements-positioning/)
+
+## [Выполненные домашние задания](completed-homeworks/)
